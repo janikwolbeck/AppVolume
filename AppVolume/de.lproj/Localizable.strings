@@ -1,0 +1,10 @@
+"App Volume" = "App-Lautstärke";
+"No apps with audio" = "Keine Apps mit Ton";
+"Muted" = "Stumm";
+"Mute" = "Ton aus";
+"Unmute" = "Ton ein";
+"Launch at Login" = "Bei der Anmeldung öffnen";
+"Quit AppVolume" = "AppVolume beenden";
+"Permission required" = "Berechtigung erforderlich";
+"To change the volume of individual apps, allow AppVolume under “System Audio Recording Only” in Privacy & Security." = "Um die Lautstärke einzelner Apps zu ändern, erlaube AppVolume unter „Datenschutz & Sicherheit“ → „Nur Systemaudioaufnahme“.";
+"Open System Settings…" = "Systemeinstellungen öffnen …";

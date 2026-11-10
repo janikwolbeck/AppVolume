@@ -1,0 +1,10 @@
+# Build-Ergebnisse (App und DMG)
+build/
+
+# Persönliche Referenz-Screenshots
+Fotos/
+
+# macOS und Xcode
+.DS_Store
+xcuserdata/
+*.xcuserstate
